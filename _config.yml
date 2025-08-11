@@ -25,11 +25,12 @@ author:
   avatar           : "profile.jpeg"
   name             : "Gerard Jitechian"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Aspiring Data Engineer | Background in Biomedical Informatics & Clinical Technology
+Passionate about building efficient data pipelines, optimizing large-scale data workflows, and applying data engineering principles to solve real-world problems. Skilled in SQL, Python, and data modeling, with experience in healthcare technology and EMR systems. Currently expanding expertise in big data tools and cloud platforms in preparation for a master’s in Computer Science (Big Data)."
+  location         : "New York, NY (USA)"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gerard.jitechian@gmail.com"
 
   # Academic websites
   academia         : # URL

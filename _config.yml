@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Gerard Jitechian"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Gerard Jitechian"
 description              : &description "Aspiring Data Engineer | Biomedical Informatics & EMR background | NYC-based"

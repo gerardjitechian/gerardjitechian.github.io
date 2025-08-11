@@ -15,7 +15,7 @@ name                     : &name "Gerard Jitechian"
 description              : &description "Aspiring Data Engineer | Biomedical Informatics & EMR background | NYC-based"
 url                      : https://gerardjitechian.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "gerardjitechian.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,8 +25,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Gerard Jitechian"
   pronouns         : # example: "she/her"  
-  bio              : "Aspiring Data Engineer | Background in Biomedical Informatics & Clinical Technology
-Passionate about building efficient data pipelines, optimizing large-scale data workflows, and applying data engineering principles to solve real-world problems. Skilled in SQL, Python, and data modeling, with experience in healthcare technology and EMR systems. Currently expanding expertise in big data tools and cloud platforms in preparation for a master’s in Computer Science (Big Data)."
+  bio              : "Aspiring Data Engineer"
   location         : "New York, NY (USA)"
   employer         : 
   uri              : # URL
